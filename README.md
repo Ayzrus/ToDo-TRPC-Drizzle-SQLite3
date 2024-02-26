@@ -10,6 +10,10 @@ TRPC é uma estrutura de comunicação de servidor para cliente (RPC - Remote Pr
 
 Drizzle é uma biblioteca JavaScript para gerenciamento de estado baseada no Redux, projetada principalmente para aplicativos descentralizados (dApps) que interagem com contratos inteligentes na blockchain Ethereum. Ele oferece uma maneira conveniente de sincronizar o estado do contrato inteligente com a interface do usuário da sua aplicação, simplificando o desenvolvimento de dApps complexos.
 
+## Zod
+
+Zod é uma biblioteca de validação de esquemas altamente eficiente e tipada, escrita em TypeScript. Com Zod, você pode definir facilmente esquemas de validação para seus dados e garantir que eles estejam corretos em tempo de execução. Ele é útil para validar entradas de usuário, respostas de API e muito mais, oferecendo uma maneira robusta de garantir a integridade dos dados em seu aplicativo.
+
 ## SQLite3
 
 SQLite3 é um sistema de gerenciamento de banco de dados relacional (RDBMS) leve, rápido e de código aberto, que é amplamente utilizado em aplicativos da web, dispositivos móveis e embarcados. Ele oferece uma maneira fácil de armazenar, acessar e gerenciar dados usando uma linguagem SQL familiar. Por ser um banco de dados incorporado, não requer um servidor separado, tornando-o uma escolha popular para aplicativos que precisam de um armazenamento de dados local.
