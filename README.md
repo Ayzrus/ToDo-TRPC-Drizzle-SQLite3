@@ -20,4 +20,4 @@ Next.js é um framework de React de código aberto que facilita a construção d
 
 # Conclusão
 
-Esperamos que este guia rápido tenha fornecido uma compreensão básica das tecnologias mencionadas. Se você estiver interessado em explorar mais profundamente qualquer uma delas, recomendamos consultar a documentação oficial e experimentar em projetos práticos. O aprendizado contínuo é essencial no mundo em constante evolução do desenvolvimento de software. Boa codificação! 🚀
+Esperamos que este guia rápido tenha fornecido uma compreensão básica das tecnologias mencionadas. Se você estiver interessado em explorar mais profundamente qualquer uma delas, recomendamos consultar a documentação oficial e experimentar em projetos práticos. O aprendizado contínuo é essencial no mundo em constante evolução do desenvolvimento de software. Boa codificação! Projeto desenvolvido por Rodrigo Carvalho🚀
