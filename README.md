@@ -1,36 +1,23 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Introdução
 
-## Getting Started
+Este é um guia breve para entender alguns conceitos e tecnologias relacionadas ao desenvolvimento de software, incluindo TRPC, Drizzle, SQLite3 e Next.js. Este documento fornecerá uma visão geral de cada uma dessas tecnologias e como elas se encaixam no panorama do desenvolvimento de aplicativos da web.
 
-First, run the development server:
+## TRPC
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+TRPC é uma estrutura de comunicação de servidor para cliente (RPC - Remote Procedure Call) de código aberto que simplifica a comunicação entre o servidor e o cliente em aplicativos da web. Com TRPC, você pode definir facilmente pontos de extremidade (endpoints) de API no servidor e acessá-los de forma transparente no cliente. Ele é especialmente útil em ambientes onde você precisa de uma comunicação cliente-servidor eficiente e simplificada.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Drizzle
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Drizzle é uma biblioteca JavaScript para gerenciamento de estado baseada no Redux, projetada principalmente para aplicativos descentralizados (dApps) que interagem com contratos inteligentes na blockchain Ethereum. Ele oferece uma maneira conveniente de sincronizar o estado do contrato inteligente com a interface do usuário da sua aplicação, simplificando o desenvolvimento de dApps complexos.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## SQLite3
 
-## Learn More
+SQLite3 é um sistema de gerenciamento de banco de dados relacional (RDBMS) leve, rápido e de código aberto, que é amplamente utilizado em aplicativos da web, dispositivos móveis e embarcados. Ele oferece uma maneira fácil de armazenar, acessar e gerenciar dados usando uma linguagem SQL familiar. Por ser um banco de dados incorporado, não requer um servidor separado, tornando-o uma escolha popular para aplicativos que precisam de um armazenamento de dados local.
 
-To learn more about Next.js, take a look at the following resources:
+## Next.js
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Next.js é um framework de React de código aberto que facilita a construção de aplicativos da web modernos e escaláveis. Ele oferece funcionalidades avançadas, como renderização do lado do servidor (SSR - Server-Side Rendering), geração de páginas estáticas, roteamento intuitivo e suporte a API externas. Com Next.js, você pode criar rapidamente aplicativos da web com ótimo desempenho e SEO, além de uma experiência de desenvolvimento agradável.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+# Conclusão
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Esperamos que este guia rápido tenha fornecido uma compreensão básica das tecnologias mencionadas. Se você estiver interessado em explorar mais profundamente qualquer uma delas, recomendamos consultar a documentação oficial e experimentar em projetos práticos. O aprendizado contínuo é essencial no mundo em constante evolução do desenvolvimento de software. Boa codificação! 🚀
