@@ -23,7 +23,7 @@ import {
   TableRow,
 } from "@/components/ui/table";
 import { toast } from "sonner";
-import { ScaleLoader } from "react-spinners";
+import { PacmanLoader } from "react-spinners";
 import { PlusCircle } from "lucide-react";
 
 export default function TodoList() {
@@ -129,7 +129,7 @@ export default function TodoList() {
               {getTodosQuery.isLoading ? (
                 <TableRow>
                   <TableCell colSpan={3}>
-                    <ScaleLoader color={"#123abc"} loading={true} />
+                    <PacmanLoader color={"#123abc"} loading={true} />
                   </TableCell>
                 </TableRow>
               ) : (
